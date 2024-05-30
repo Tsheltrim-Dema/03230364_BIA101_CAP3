@@ -1,14 +1,16 @@
 ################################
-# Github Repo link
-# Your Name
-# Your Section 
-# Your Student ID Number
+# Github Repo link:https://github.com/Tsheltrim-Dema/03230364_BIA101_CAP3
+# Name:Tsheltrim Dema 
+# Section:BBI B
+# Student ID Number:03230364
 ################################
 # REFERENCES
 # https://www.youtube.com/watch?v=fEp5nWvujhI
+#https://cboard.cprogramming.com/c-programming/180431-read-input-file-calculate-data-write-output-file.html#post1302238
+#https://www.geeksforgeeks.org/read-a-file-line-by-line-in-python/
 ################################
 # SOLUTION
-# Your Solution Score: <total sum>
+# Your Solution Score: <478864>
 ################################
 
 def read_input(file_name):
